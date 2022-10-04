@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **toheedjamaal9@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oXiqhz07ocV-sUg5Bm8naZ7NgHE1nwPa/view](https://drive.google.com/file/d/1oXiqhz07ocV-sUg5Bm8naZ7NgHE1nwPa/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
