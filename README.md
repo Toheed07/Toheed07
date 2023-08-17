@@ -31,8 +31,4 @@
 
 <a href=""><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css"/> </a>
 
-<img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucky-bruce&layout=compact&langs_count=16&theme=dracula"/>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=toheed07&show_icons=true&locale=en" alt="toheed07" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=toheed07&" alt="toheed07" /></p>
