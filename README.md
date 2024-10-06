@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Toheed</h1>
-<h3 align="center">Energizing Code with Enthusiasm: Crafting Digital Dreams!</h3>
+<!-- <h3 align="center">Energizing Code with Enthusiasm: Crafting Digital Dreams!</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toheed07&label=Profile%20views&color=0e75b6&style=flat" alt="toheed07" /> </p>
 
