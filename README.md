@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Toheed07](https://github.com/Toheed07)
 
-- 💬 Ask me about **react, python**
+<!-- - 💬 Ask me about **react, python**  -->
 
 - 📫 How to reach me **toheedjamaal9@gmail.com**
 
