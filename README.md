@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toheed07&label=Profile%20views&color=0e75b6&style=flat" alt="toheed07" /> </p>
 
-- 🔭 I’m currently working as **Backend developer at Pandu AI**
+<!-- - 🔭 I’m currently working as **Backend developer at Pandu AI**  -->
 
 - 🌱 I’m currently learning **Data structure and Algorithm**
 
