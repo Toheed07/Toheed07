@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Data structure and Algorithm**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Toheed07](https://github.com/Toheed07)
+<!-- - 👨‍💻 All of my projects are available at [https://github.com/Toheed07](https://github.com/Toheed07) -->
 
 <!-- - 💬 Ask me about **react, python**  -->
 
 - 📫 How to reach me **toheedjamaal9@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oXiqhz07ocV-sUg5Bm8naZ7NgHE1nwPa/view](https://drive.google.com/file/d/1oXiqhz07ocV-sUg5Bm8naZ7NgHE1nwPa/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Q2LATXXI_CaVaFsYBl6sJ9hvLfMzBmgU/view?usp=sharing](Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
