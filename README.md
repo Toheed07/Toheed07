@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **toheedjamaal9@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Q2LATXXI_CaVaFsYBl6sJ9hvLfMzBmgU/view?usp=sharing](Resume)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Q2LATXXI_CaVaFsYBl6sJ9hvLfMzBmgU/view?usp=sharing](https://drive.google.com/file/d/1Q2LATXXI_CaVaFsYBl6sJ9hvLfMzBmgU/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
