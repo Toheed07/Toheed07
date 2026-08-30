@@ -24,8 +24,9 @@ I build and ship multi-LLM pipelines in production (Gemini, Claude, AWS Bedrock)
 **Data**
 `PostgreSQL` `MongoDB` `Cosmos DB`
 
+<!--
 ### 🚀 Featured Projects
-<!-- Replace these as you ship your AI portfolio projects. Each entry should link to a repo with:
+ Replace these as you ship your AI portfolio projects. Each entry should link to a repo with:
      - a one-line problem statement
      - an architecture diagram or short GIF demo
      - what you'd do differently in production (shows judgment, not just tutorial-following)
@@ -33,6 +34,7 @@ I build and ship multi-LLM pipelines in production (Gemini, Claude, AWS Bedrock)
 - 🔗 *[RAG project — coming soon]* — production-style RAG pipeline with evals
 - 🔗 *[Agentic/MCP project — coming soon]* — autonomous agent using MCP tool-calling
 -->
+
 ### 📫 Reach me
 - LinkedIn: [in/toheed-jamaal](https://linkedin.com/in/toheed-jamaal)
 - Email: toheedjamaal9@gmail.com
