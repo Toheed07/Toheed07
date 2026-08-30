@@ -29,10 +29,10 @@ I build and ship multi-LLM pipelines in production (Gemini, Claude, AWS Bedrock)
      - a one-line problem statement
      - an architecture diagram or short GIF demo
      - what you'd do differently in production (shows judgment, not just tutorial-following)
--->
+
 - 🔗 *[RAG project — coming soon]* — production-style RAG pipeline with evals
 - 🔗 *[Agentic/MCP project — coming soon]* — autonomous agent using MCP tool-calling
-
+-->
 ### 📫 Reach me
 - LinkedIn: [in/toheed-jamaal](https://linkedin.com/in/toheed-jamaal)
 - Email: toheedjamaal9@gmail.com
